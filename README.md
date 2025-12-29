@@ -8,6 +8,6 @@
 </p>
 <h4 align="left">My LeetCode Badges</h4>
 <img src="./bb.png" width="70" />
-<img src="./200.png" width="70 />
+<img src="./200.png" width="70" />
 
 
